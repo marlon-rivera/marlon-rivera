@@ -8,10 +8,12 @@
 <p align="left">
 
 
-<h3>LENGUAJES</h3>
+<h3>TECNOLOGIAS</h3>
   
 <p align="left">  <a href="https://www.java.com/en/" target=”_blank” ><img src = "https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt = "Java icon" height="50" width="50" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target=”_blank” ><img src = "https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt = "Html5 icon" height="50" width="50" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target=”_blank” ><img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" alt = "CSS3 icon" height="50" width="50" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target=”_blank” ><img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt = "JS icon" height="50" width="50" /></a>
 <a href="https://reactjs.org/" target=”_blank” ><img src = "https://cdn-icons-png.flaticon.com/512/919/919851.png" alt = "REACT JS icon" height="50" width="50" /></a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
